@@ -2,7 +2,7 @@
 description: How to create a minimum express server using Node and connect to MongoDB
 ---
 
-# Mini Express
+# Express Intro
 
 ## Creating Express Server
 
