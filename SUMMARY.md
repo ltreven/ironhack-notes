@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [How a Computer Works](what-is-a-computer.md)
+* [Reading and Videos](what-is-a-computer.md)
 * [Git, CLI and Editor](get-prepared-for-programming.md)
 * [Javascript](javascript.md)
 * [Mini Express](mini-express.md)

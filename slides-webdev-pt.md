@@ -66,6 +66,10 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://drive.google.com/open?id=18YcTJtIjO9EHiGJN6tW\_lqAJkUoIkR2Hg0Pjm0yPi0k" %}
 
+## 02/Abril/2020
+
+Arrays Maps, Reduce & Filter + 
+
 
 
 
