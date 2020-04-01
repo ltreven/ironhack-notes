@@ -6,7 +6,9 @@ description: How to create a minimum express server using Node and connect to Mo
 
 ## Creating Express Server
 
-{% embed url="https://blog.vanila.io/setup-basic-server-with-express-framework-37b2ec749a6d" %}
+```text
+https://blog.vanila.io/setup-basic-server-with-express-framework-37b2ec749a6d
+```
 
 ## Express Generator
 

@@ -6,5 +6,5 @@
 * [Reading and Videos](what-is-a-computer.md)
 * [Git, CLI and Editor](get-prepared-for-programming.md)
 * [Javascript](javascript.md)
-* [Express Intro](mini-express.md)
+* [Express Intro](express-intro.md)
 
