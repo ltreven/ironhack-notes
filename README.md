@@ -1,5 +1,5 @@
 ---
-description: Public notes for Lourenço's Web Development classes
+description: Notes - Web Development classes - Lourenço Trevenzolli
 ---
 
 # Initial page

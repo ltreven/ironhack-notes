@@ -4,7 +4,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 
 # Classes Agendas
 
-## Día Sábado
+## Sábado, 21/03/2020
 
 | Horario | Tema |
 | :--- | :--- |
@@ -20,7 +20,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16:40 | LAB2 + Recap |
 | 17:00 | Fin de Clase |
 
-## Martes 24 de Marzo
+## Martes, 24/03/2020
 
 | Horario | Tema |
 | :--- | :--- |
@@ -32,7 +32,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h45 | Layout and Grid System \(30'\) |
 | 21:15 | Start LAB on class \(15'\) |
 
-## Sábado 28 de Marzo
+## Sábado, 28/03/2020
 
 | Horario | Tema |
 | :--- | :--- |
@@ -50,7 +50,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16h10 | Ejercicio investigación think-pair-share \(30'\) |
 | 16h40 | CodeWars |
 
-## Martes, 31 de Marzo
+## Martes, 31/03/2020
 
 | Horario | Tema |
 | :--- | :--- |
