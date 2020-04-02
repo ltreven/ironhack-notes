@@ -68,7 +68,9 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 ## 02/Abril/2020
 
-Arrays Maps, Reduce & Filter + 
+### Arrays Maps, Reduce & Filter + values and reference
+
+{% embed url="https://docs.google.com/presentation/d/1GfSOraRgrzWlHzUsLryM-c2Z4n0MY98TKfuZ0bQi6Xc/edit?usp=sharing" %}
 
 
 
