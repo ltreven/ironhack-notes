@@ -62,5 +62,13 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 21h05 | LAB \(20'\) |
 | 21h20 | Code Wars \(10'\) |
 
+## Jueves, 02/04/2020
 
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap + Closure + píldora \(30'\) |
+| 19h00 | Arrays \| Map, Filter & Reduce \(1:15'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | LAB \(35'\) |
+| 21h00 | Values x Reference \(30'\) |
 
