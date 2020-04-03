@@ -72,3 +72,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h25 | LAB \(35'\) |
 | 21h00 | Values x Reference \(30'\) |
 
+## Sábado, 04/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily + Retro \(30'\) |
+| 10h30 | Recap Daisy Chain \(15'\) |
+| 10h45 | Immutable / Mutable data types \(20'\) |
+| 11h05 | LAB movies \(20'\) |
+| 11h25 | OOP intro \(1:00\) |
+| 12h25 | OOP part 2 \(1:00\) |
+

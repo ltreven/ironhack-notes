@@ -74,5 +74,11 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 
 
+## 04/Abril/2020
+
+### Pass by value / by reference.  Mutable/Immutable. Shallow / Deep copy
+
+{% embed url="https://docs.google.com/presentation/d/10\_Xx6OpAy0DMSvOSBwg92vetIR78vf1BSjRWGlep0J0/edit?usp=sharing" %}
+
 
 

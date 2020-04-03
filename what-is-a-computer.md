@@ -29,5 +29,13 @@ Mi sugerencia es ver hasta el episodio 12, por lo menos.
 
 {% embed url="https://css-tricks.com/" %}
 
+## BLOGS
+
+{% embed url="https://bost.ocks.org/mike/" %}
+
+### Why use === ? Comparison tables
+
+{% embed url="https://dorey.github.io/JavaScript-Equality-Table/" %}
+
 
 
