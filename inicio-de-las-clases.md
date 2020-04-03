@@ -79,7 +79,12 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 10h00 | Daily + Retro \(30'\) |
 | 10h30 | Recap Daisy Chain \(15'\) |
 | 10h45 | Immutable / Mutable data types \(20'\) |
-| 11h05 | LAB movies \(20'\) |
-| 11h25 | OOP intro \(1:00\) |
-| 12h25 | OOP part 2 \(1:00\) |
+| 11h05 | LAB greatest movies \(25'\) |
+| 11h30 | **Ejercicios \(1:00\)** |
+| 12h30 | OOP intro \(1:20\) |
+| 13h20 | **OOP part 2 \(40\)** |
+| 14h00 | Almuerzo \(1:00\) |
+| 15h00 | LAB Vikingos \(40'\) |
+| 15:40 | CodeWars e 2 salas \(1:00\) |
+|  |  |
 
