@@ -72,6 +72,14 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1GfSOraRgrzWlHzUsLryM-c2Z4n0MY98TKfuZ0bQi6Xc/edit?usp=sharing" %}
 
+## 04/Abril/2020
+
+### Javascript - OOP Intro
+
+{% embed url="https://docs.google.com/presentation/d/1OwBu0U1DQSP1BFbXSIYeRcmSgBHRaObJ\_9mp51Uz-uk/edit?usp=sharing" %}
+
+
+
 
 
 ## 04/Abril/2020
