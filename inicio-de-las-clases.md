@@ -88,3 +88,15 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 15:40 | CodeWars e 2 salas \(1:00\) |
 |  |  |
 
+## Martes, 14/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap + Píldora \(30'\) |
+| 19h00 | Debugging, Error Handling & JS Hint \(45'\) |
+| 19h45 | JS Async & Callbacks \(30'\) |
+| 20h15 | Break 10' |
+| 20h25 | Functions  declarations - Self Guided - think, pair, share \(15'\) |
+| 20h40 | Context and Function invocation \(30'\) |
+| 21h10 | Code Wars and first Kata \(20'\) |
+

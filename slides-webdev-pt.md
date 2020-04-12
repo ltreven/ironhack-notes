@@ -88,5 +88,13 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/10\_Xx6OpAy0DMSvOSBwg92vetIR78vf1BSjRWGlep0J0/edit?usp=sharing" %}
 
+## 14/Abril/2020
+
+### Debugging, Error Handling
+
+{% embed url="https://docs.google.com/presentation/d/1CjYUF0XQyr4oqZeSNOmlcq2wckrJHqyt2ynt0lQ-XvM/edit?usp=sharing" %}
+
+{% embed url="https://docs.google.com/presentation/d/1gxNcSDmYOMS4Meg\_rzRzcs6f\_0kK205vwib1hMc8F9Q/edit?usp=sharing" %}
+
 
 
