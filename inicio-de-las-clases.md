@@ -100,3 +100,11 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h40 | Context and Function invocation \(30'\) |
 | 21h10 | Code Wars and first Kata \(20'\) |
 
+## Jueves, 16/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap Jasmine \(15'\) |
+| 18h45 | Chain: recap + teoria |
+|  |  |
+

@@ -94,7 +94,13 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1CjYUF0XQyr4oqZeSNOmlcq2wckrJHqyt2ynt0lQ-XvM/edit?usp=sharing" %}
 
+### Async and Callbacks
+
 {% embed url="https://docs.google.com/presentation/d/1gxNcSDmYOMS4Meg\_rzRzcs6f\_0kK205vwib1hMc8F9Q/edit?usp=sharing" %}
+
+### Context and Function Invocation
+
+{% embed url="https://docs.google.com/presentation/d/1fbCaWPqTBYcLyWK2X4aIz1xCw4NFJMIB8qGmWxB8rgQ/edit?usp=sharing" %}
 
 
 
