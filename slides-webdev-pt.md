@@ -102,5 +102,11 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1fbCaWPqTBYcLyWK2X4aIz1xCw4NFJMIB8qGmWxB8rgQ/edit?usp=sharing" %}
 
+## 16/Abril/2020
+
+### Closures and Scopes
+
+{% embed url="https://docs.google.com/presentation/d/14f34eg8N5tRZ\_J7XWC4UzwnE37S94Il1Hnkqmx6wrM0/edit?usp=sharing" %}
+
 
 
