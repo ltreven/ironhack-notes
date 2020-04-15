@@ -104,7 +104,9 @@ description: WEB DEV part time Barcelona Marzo 2020
 
 | Horario | Tema |
 | :--- | :--- |
-| 18h30 | Recap Jasmine \(15'\) |
-| 18h45 | Closures and Scopes \(45'\) |
-| 19h30 | Super Recap Chain \(2h\) |
+| 18h30 | Recap con ejercicios \(30'\) |
+| 19h00 | Closures, Scopes, IIFE, JS Comparison \(50'\) |
+| 19h50 | Break \(10'\) |
+| 20h00 | Super Learn Chain \(1h00\) |
+| 21h00 | LAB Koans + self guided Lodash + Kata \(30'\) |
 

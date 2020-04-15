@@ -29,6 +29,10 @@ Mi sugerencia es ver hasta el episodio 12, por lo menos.
 
 {% embed url="https://css-tricks.com/" %}
 
+{% embed url="https://animista.net/" %}
+
+
+
 ## BLOGS
 
 {% embed url="https://bost.ocks.org/mike/" %}
