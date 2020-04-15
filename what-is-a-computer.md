@@ -29,6 +29,8 @@ Mi sugerencia es ver hasta el episodio 12, por lo menos.
 
 {% embed url="https://css-tricks.com/" %}
 
+### Animaciones en CSS
+
 {% embed url="https://animista.net/" %}
 
 
@@ -40,6 +42,12 @@ Mi sugerencia es ver hasta el episodio 12, por lo menos.
 ### Why use === ? Comparison tables
 
 {% embed url="https://dorey.github.io/JavaScript-Equality-Table/" %}
+
+## JS
+
+### Ramda
+
+{% embed url="https://ramdajs.com/" %}
 
 
 

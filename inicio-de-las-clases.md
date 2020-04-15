@@ -108,5 +108,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 19h00 | Closures, Scopes, IIFE, JS Comparison \(50'\) |
 | 19h50 | Break \(10'\) |
 | 20h00 | Super Learn Chain \(1h00\) |
-| 21h00 | LAB Koans + self guided Lodash + Kata \(30'\) |
+| 21h00 | LAB Koans + Ramda + Kata \(30'\) |
+
+
 
