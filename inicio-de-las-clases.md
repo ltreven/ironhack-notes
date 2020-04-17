@@ -110,5 +110,18 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h00 | Super Learn Chain \(1h00\) |
 | 21h00 | LAB Koans + Ramda + Kata \(30'\) |
 
+## Sábado, 18/04/2020
 
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily + Retro \(30'\) |
+| 10h30 | Kalenta Kata - pair programming \(30'\) |
+| 11h00 | DOM Intro \(45'\) |
+| 11h45 | DOM Manipulation \(45'\) |
+| 12h30 | LAB DOM Ironhack Cart + \[self guided lab\] \(1:30\) |
+| 14h00 | Almuerzo \(60'\) |
+| 15h00 | LAB DOM Pizza Builder \(1:00\) |
+| 16h00 | LAB Reinforcement JS Memory Game \(15'\) |
+| 16h15 | Markdown \(30'\) |
+| 16h45 | **Bonus** LAB JS Chronometer \(15'\) |
 

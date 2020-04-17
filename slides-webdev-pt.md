@@ -72,6 +72,14 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1GfSOraRgrzWlHzUsLryM-c2Z4n0MY98TKfuZ0bQi6Xc/edit?usp=sharing" %}
 
+## 04/Abril/2020
+
+### Javascript - OOP Intro
+
+{% embed url="https://docs.google.com/presentation/d/1OwBu0U1DQSP1BFbXSIYeRcmSgBHRaObJ\_9mp51Uz-uk/edit?usp=sharing" %}
+
+
+
 
 
 ## 04/Abril/2020
@@ -79,6 +87,32 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 ### Pass by value / by reference.  Mutable/Immutable. Shallow / Deep copy
 
 {% embed url="https://docs.google.com/presentation/d/10\_Xx6OpAy0DMSvOSBwg92vetIR78vf1BSjRWGlep0J0/edit?usp=sharing" %}
+
+## 14/Abril/2020
+
+### Debugging, Error Handling
+
+{% embed url="https://docs.google.com/presentation/d/1CjYUF0XQyr4oqZeSNOmlcq2wckrJHqyt2ynt0lQ-XvM/edit?usp=sharing" %}
+
+### Async and Callbacks
+
+{% embed url="https://docs.google.com/presentation/d/1gxNcSDmYOMS4Meg\_rzRzcs6f\_0kK205vwib1hMc8F9Q/edit?usp=sharing" %}
+
+### Context and Function Invocation
+
+{% embed url="https://docs.google.com/presentation/d/1fbCaWPqTBYcLyWK2X4aIz1xCw4NFJMIB8qGmWxB8rgQ/edit?usp=sharing" %}
+
+## 16/Abril/2020
+
+### Closures and Scopes
+
+{% embed url="https://docs.google.com/presentation/d/14f34eg8N5tRZ\_J7XWC4UzwnE37S94Il1Hnkqmx6wrM0/edit?usp=sharing" %}
+
+## 18/Abril/2020
+
+### DOM Manipulation
+
+{% embed url="https://docs.google.com/presentation/d/18LmZ2NZMmj0T4Iad\_Kjjub-84fo8\_uhrEBsBzI58Wc8/edit?usp=sharing" %}
 
 
 
