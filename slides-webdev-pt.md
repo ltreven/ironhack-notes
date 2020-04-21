@@ -114,5 +114,13 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/18LmZ2NZMmj0T4Iad\_Kjjub-84fo8\_uhrEBsBzI58Wc8/edit?usp=sharing" %}
 
+## 21/Abril/2020
+
+### Canvas
+
+{% embed url="https://docs.google.com/presentation/d/1V7gjNlE530-x0\_dgQTc5tGWXkBL9Yzow41X-AWMZhVs/edit?usp=sharing" %}
+
+
+
 
 

@@ -125,3 +125,15 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16h15 | Markdown \(30'\) |
 | 16h45 | **Bonus** LAB JS Chronometer \(15'\) |
 
+## Martes, 21/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap \(20'\) |
+| 18h50 | Canvas Intro \(40'\) |
+| 19h30 | Ejercicio \(30'\) |
+| 20h00 | Break \(10'\) |
+| 20h10 | Más Canvas \(30'\) |
+| 20h40 | Ejercícios \(30'\) |
+| 21h10 | LAB Hangman \(20'\) |
+
