@@ -137,3 +137,17 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h40 | Ejercícios \(30'\) |
 | 21h10 | LAB Hangman \(20'\) |
 
+## Jueves, 23/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Canvas Basic Animation \(30'\) |
+| 19h00 | Game - Code Along \(30'\) |
+| 19h30 | Transformations and compositing - think, pair, share \(30'\) |
+| 20h00 | Summary \(10'\) |
+| 20h10 | Break \(10'\) |
+| 20h20 | LAB Canvas Race Car \(20'\) |
+| 20h40 | Advanced animations - think, pair, share \(30'\) |
+| 21h10 | Summary \(20'\) |
+| \(opt\) | Self guided - Juice your game \(15'\) + bonus lab |
+
