@@ -141,13 +141,12 @@ description: WEB DEV part time Barcelona Marzo 2020
 
 | Horario | Tema |
 | :--- | :--- |
-| 18h30 | Canvas Basic Animation \(30'\) |
-| 19h00 | Game - Code Along \(30'\) |
-| 19h30 | Transformations and compositing - think, pair, share \(30'\) |
-| 20h00 | Summary \(10'\) |
+| 18h30 | Canvas Basic Animation \(40'\) |
+| 19h10 | Game - Code Along \(20'\) |
+| 19h30 | Transformations and compositing - think, pair, share \(40'\) |
 | 20h10 | Break \(10'\) |
 | 20h20 | LAB Canvas Race Car \(20'\) |
 | 20h40 | Advanced animations - think, pair, share \(30'\) |
-| 21h10 | Summary \(20'\) |
+| 21h10 | Summary + sound \(20'\) |
 | \(opt\) | Self guided - Juice your game \(15'\) + bonus lab |
 
