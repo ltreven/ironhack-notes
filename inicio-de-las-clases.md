@@ -150,3 +150,16 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 21h10 | Summary + sound \(20'\) |
 | \(opt\) | Self guided - Juice your game \(15'\) + bonus lab |
 
+## Sábado, 25/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily + Retro \(30'\) |
+| 10h30 | Kata \(30'\) |
+| 11h00 | Project guidelines \(50'\) |
+| 11h50 | Planificación y preparación - 3 salas \(2h10\) |
+| 14h00 | Almuerzo \(1h00\) |
+| 15h00 | Validación de proyectos \(1h00\) |
+| 16h00 | Markdown \( 30'\) |
+| 16h30 | Practica and Sprint Commit \(30'\) |
+
