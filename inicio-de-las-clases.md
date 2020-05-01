@@ -163,3 +163,15 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16h00 | Markdown \( 30'\) |
 | 16h30 | Practica and Sprint Commit \(30'\) |
 
+## Lunes, 27/04/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 14h30 | Redux Intro y Arquitectura \(30'\) |
+| 15h00 | Redux desde cero code along \(20'\) |
+| 15h20 | Redux con varios reducers \(30'\) |
+| 15h50 | Break \(10'\) |
+| 16h00 | Time travel debugging \(15'\) |
+| 16h15 | Functional Programing \(30'\) |
+| 16h45 | Integration with React - Intro \(45'\) |
+
