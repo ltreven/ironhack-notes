@@ -138,3 +138,9 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 
 
+## Píldora Eventos
+
+{% embed url="https://docs.google.com/presentation/d/1WdGn5bR3ezO7UlcDSXQM3netQI2OQGqFviayVTXpDAc/edit?usp=sharing" %}
+
+
+
