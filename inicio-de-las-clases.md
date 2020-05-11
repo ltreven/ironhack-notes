@@ -187,3 +187,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16h00 | Píldora Ingeniería \(CI/CD + git branches\) 30' |
 | 16h30 | Ironbeer \(1:00\) |
 
+## Martes, 12/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Node Intro \(50'\) |
+| 19h20 | La internet \(30'\) |
+| 19h50 | HTTP Server \(30'\) |
+| 20h20 | Break \(10'\) |
+| 20h30 | LAB Intro Node \(20'\) |
+| 20h50 | Think-pair-share \(40'\) |
+
