@@ -198,3 +198,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h30 | LAB Intro Node \(20'\) |
 | 20h50 | Think-pair-share \(40'\) |
 
+## Jueves, 14/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap Hands On \(40'\) |
+| 19h10 | Express Intro \(40'\) |
+| 19h50 | Break \(10'\) |
+| 20h00 | Ejercicio self guided ES6 \(30'\) |
+| 20h30 | LAB Express \(20'\) |
+| 20h50 | Express + Handlebars \(40'\) |
+
