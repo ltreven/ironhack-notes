@@ -209,3 +209,19 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h30 | LAB Express \(20'\) |
 | 20h50 | Express + Handlebars \(40'\) |
 
+## Sábado, 16/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily / Retro \(40'\) |
+| 10h40 | 2 Katas \(30 + 20'\) compartiendo solución |
+| 11h30 | Mongo DB Intro \(30'\) |
+| 12h00 | Break \(10'\) |
+| 12h10 | Data Models + ejercicio + demo \(50'\) |
+| 13h00 | Shell & CRUD + ejercicio \(40'\) |
+| 14h00 | Almuerzo \(1h00\) |
+| 15h00 | LAB \(30'\) |
+| 15h30 | Bonus - Mongo Compass \(30'\) |
+| 16h00 | Break \(10'\) |
+| 16h10 | Bonus - Index & Aggregation \(30'\) |
+
