@@ -6,7 +6,5 @@ description: Notes - Web Development classes - Lourenço Trevenzolli
 
 {% page-ref page="slides-webdev-pt.md" %}
 
-{% page-ref page="what-is-a-computer.md" %}
-
-
+{% page-ref page="webdev-readings.md" %}
 
