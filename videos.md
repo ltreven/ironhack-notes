@@ -32,6 +32,46 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/2tRrE7zX-GZOco3Q4R30Y68TG4OmX6a81nNN\_fIOnUshvijcgXVxjxOorx7Ohiwe" %}
 
+## Orientación a Objetos - Intro
+
+{% embed url="https://zoom.us/rec/share/wZ1OAo3s0zxJaKuTrwLlApQgO6P5eaa81nNL-fcOmRsBjq2D8IZIDyI5bP3q-L8u" %}
+
+## Prototypes
+
+{% embed url="https://zoom.us/rec/share/u5JPJJKoz29IZrPy2X7CXYwjPt3MX6a81XUXqKUFnhvOeFGKweJLAK0hT6aOJM66" %}
+
+## JS Debugging, Async, Errors, Function Invocations
+
+{% embed url="https://zoom.us/rec/share/u\_52PbfhpmNLYpH16U\_gBLImPYO-X6a8gCVK\_qJenkvST94yo9k9vJRPZhcENPjW" %}
+
+## Closures and JS Language Advanced
+
+{% embed url="https://zoom.us/rec/share/yudtIqzV7HtIXbP11lz7aIU9Lp2iaaa81yMZ-\_MMmUYWIAN6jHFv9WmLELPOXaBI" %}
+
+## DOM Manipulation
+
+{% embed url="https://zoom.us/rec/share/zMNfE-7y\_U1IaKPouU7fcJ8oNaTLaaa8g3Ib8qINzkhZOFsjaetCV8Yh-CspkH\_m" %}
+
+## Canvas Intro
+
+{% embed url="https://zoom.us/rec/share/vspOduHa-UlLW9bz4njTZp4lWaf7X6a8hCdL-\_BYmExkVCk06HY8BjIXYzMhTfjJ" %}
+
+## Canvas Animation
+
+{% embed url="https://zoom.us/rec/share/2pBkdq\_a\_1JIRIXy1mb9BbJmDtX-aaa8hHIf\_vYKnf5chfu7UAJc0j19pd43fxo" %}
+
+## Kickoff Proyecto Módulo 1
+
+{% embed url="https://zoom.us/rec/share/1dNaKYz6zkhJX4GX8GHBU\_IORbjZeaa82nMcr6IKmB3nyh\_QVg7UOpIAGsHPOZQ\_" %}
+
+## Eventos en Javascript
+
+{% embed url="https://zoom.us/rec/share/6pAkdb3Z8UNIW6ORsEOCQ4cOIbneT6a81SEervNYzxmHXkFNRRZKxmCFNZDM1U7-" %}
+
+## Mini Clase de Git / Git Flow
+
+{% embed url="https://zoom.us/rec/share/981\_JvLv9UVLGavp71njW6M\_PKP8X6a82iJP-fUEmUfqjDLs7LxBTiPRQICsKTzD" %}
+
 
 
 
