@@ -2,7 +2,7 @@
 description: Todos los videos de las classes de WEBDEV
 ---
 
-# Videos
+# Videos de las Clases
 
 ## **HTML and CSS Intro,** Mar 19, 2020
 
@@ -71,6 +71,22 @@ description: Todos los videos de las classes de WEBDEV
 ## Mini Clase de Git / Git Flow
 
 {% embed url="https://zoom.us/rec/share/981\_JvLv9UVLGavp71njW6M\_PKP8X6a82iJP-fUEmUfqjDLs7LxBTiPRQICsKTzD" %}
+
+## Node Intro
+
+{% embed url="https://zoom.us/rec/share/6JxoH47I32FIGoXy1G6GAKkGEK6iaaa8gygaqfQFn0ahUjtvW5bcSO\_zTPA-wf2e" %}
+
+## Express Intro
+
+{% embed url="https://zoom.us/rec/share/1fMkHe6otWZJTs\_ysGOEB\_IaWb-6X6a8hykd\_6VenUiQ3g6L4VQPiS1OLsS7TlU5" %}
+
+## Mongo Intro \(con Tomás y Flor\)
+
+{% embed url="https://zoom.us/rec/share/3ctWdoDN3TNJBYWRynPzU\_8APofgaaa8hnMd8\_NfxR1Z1XLWa6fK-LR8TY285i9H" %}
+
+## Express, Handlebars Layouts, Partials
+
+{% embed url="https://zoom.us/rec/share/1eArJaDxpjlJGc\_MxFrSVrAsPqPraaa81yFPrvNZxRlkSwulv917OPu1KniZSGCq" %}
 
 
 
