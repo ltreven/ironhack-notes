@@ -225,3 +225,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 16h00 | Break \(10'\) |
 | 16h10 | Bonus - Index & Aggregation \(30'\) |
 
+## Martes, 19/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap \(20'\) |
+| 18h50 | Handlebars Layouts and Partials \(1h10\) |
+| 20h00 | Break \(10'\) |
+| 20h10 | Route params & query strings \(30'\) |
+| 20h40 | Lab \(10'\) |
+| 20h50 | Ejercicio construcción de API \(40'\) |
+
