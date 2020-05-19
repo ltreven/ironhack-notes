@@ -61,5 +61,17 @@ Mi sugerencia es ver hasta el episodio 12, por lo menos.
 
 {% embed url="https://www.luizcorreia.eti.br/gitflow-workflow/" %}
 
+## 12 Factors
+
+{% embed url="https://12factor.net/" %}
+
+## Coding Principles
+
+{% embed url="https://levelup.gitconnected.com/heres-a-list-of-5-coding-principles-that-help-you-write-better-code-d9b8ceb63c1b" %}
+
+## Javascript Design Patterns
+
+{% embed url="https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns" %}
+
 
 
