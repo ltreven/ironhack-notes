@@ -5,4 +5,5 @@
 * [Classes Agendas](inicio-de-las-clases.md)
 * [Reading and Videos](webdev-readings.md)
 * [Express Intro](express-intro.md)
+* [Videos](videos.md)
 
