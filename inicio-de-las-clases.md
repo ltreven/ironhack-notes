@@ -236,3 +236,13 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h40 | Lab \(10'\) |
 | 20h50 | Ejercicio construcción de API \(40'\) |
 
+## Jueves, 21/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Code Along POST Method \(45'\) |
+| 19h15 | Ejercicio Supermarket \(1:00\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | API Rest - teoria y code along \(30'\) |
+| 20h55 | API Rest - pair programming - jsonplaceholder \(35'\) |
+
