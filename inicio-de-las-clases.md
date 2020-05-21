@@ -246,3 +246,5 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h25 | API Rest - teoria y code along \(30'\) |
 | 20h55 | API Rest - pair programming - jsonplaceholder \(35'\) |
 
+
+
