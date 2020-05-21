@@ -243,8 +243,9 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 18h30 | Code Along POST Method \(45'\) |
 | 19h15 | Ejercicio Supermarket \(1:00\) |
 | 20h15 | Break \(10'\) |
-| 20h25 | API Rest - teoria y code along \(30'\) |
-| 20h55 | API Rest - pair programming - jsonplaceholder \(35'\) |
+| 20h25 | Demostración supermarket \(10'\) |
+| 20h35 | API Rest - teoria y code along \(30'\) |
+| 21h05 | API Rest - pair programming con JSON placeholder \(25'\) |
 
 
 
