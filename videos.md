@@ -96,5 +96,11 @@ description: Todos los videos de las classes de WEBDEV
 
 
 
+## Mongoose
+
+{% embed url="https://zoom.us/rec/share/tccvFrHR63JIGJWcwhvWdKQxWdrdT6a81iRKr\_QJxU7zPdHWHycybI0TSCOp9qNp" %}
+
+
+
 
 

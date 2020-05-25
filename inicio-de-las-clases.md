@@ -247,5 +247,18 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h35 | API Rest - teoria y code along \(30'\) |
 | 21h05 | API Rest - pair programming con JSON placeholder \(25'\) |
 
+## Sábado, 23/05/2020
 
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily + Retro \(20'\) |
+| 10h20 | API \(1h15\) |
+| 11h35 | MVC + Mongoose \(30'\) |
+| 12h05 | Break \(10'\) |
+| 12h15 | Exercise create students \(45'\) |
+| 13h00 | Mongoose Schema \(45'\) |
+| 13h45 | Almuerzo \(1h00\) |
+| 14h45 | CRUD \(45'\) |
+| 15h30 | Ejercicio CRUD \(1h00\) |
+| 16h30 | LAB \(30'\) |
 
