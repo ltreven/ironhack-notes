@@ -166,5 +166,9 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/196Oee54rE6MUeOwuHREXmM1hOG6AMi\_vsmjWFawlNfU/edit?usp=sharing" %}
 
+## 26/Mayo/2020
+
+{% embed url="https://docs.google.com/presentation/d/1PQv5sSjus3AeL73EJgSPv6V1wy-631unIr4h4xtYk0s/edit?usp=sharing" %}
+
 
 

@@ -262,3 +262,13 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 15h30 | Ejercicio CRUD \(1h00\) |
 | 16h30 | LAB \(30'\) |
 
+## Martes, 26/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Mongo - continuación \(1h00\) |
+| 19h30 | Promises + ejercicio \(45'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Callback hell + ejercicio con Mongoose \(45'\) |
+| 21h10 | Arreglando el CB Hell con Promises \(20'\) |
+
