@@ -272,3 +272,15 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h25 | Callback hell + ejercicio con Mongoose \(45'\) |
 | 21h10 | Arreglando el CB Hell con Promises \(20'\) |
 
+## Jueves, 28/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Callback hell + ejercicio Mongoose \(45'\) |
+| 19h15 | Arreglando el CB Hell con Promises \(20'\) |
+| 19h35 | Arreglando con Async and Await \(25'\) |
+| 20h00 | Break \(10'\) |
+| 20h10 | Self Guided Node Asynchrony \(30'\) |
+| 20h40 | Express generator \(45'\) |
+| 21h25 | LAB |
+

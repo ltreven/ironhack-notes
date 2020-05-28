@@ -102,5 +102,11 @@ description: Todos los videos de las classes de WEBDEV
 
 
 
+## Promises
+
+{% embed url="https://zoom.us/rec/share/68NMBa3qzHFIUqfT9G7dW6ECBoK9X6a8hihNrqcEnxmwg8DoCFnG5u9pYj2mr3EC" %}
+
+
+
 
 
