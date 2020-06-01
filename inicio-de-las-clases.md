@@ -284,3 +284,27 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h40 | Express generator \(45'\) |
 | 21h25 | LAB |
 
+## Sábado, 30/05/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 10h00 | Daily + Retro \(30'\) |
+| 10h30 | Kata en 6 equipos \(30'\) |
+| 11h00 | Recap with Exercises \(30'\) |
+| 11h30 | Express Generator - Library Project CRUD \(1:10\) |
+| 12h40 | Break \(10'\) |
+| 12h50 | Library Project - Documents Relationship  \(1:10\) |
+| 14h00 | Almuerzo \(1:00\) |
+| 15h00 | Pair Programming \(1:20\) |
+| 16h20 | LAB \(40\) |
+
+## Martes, 02/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Finalizar Library \(20'\) |
+| 18h50 | API Architecture pill \(30'\) |
+| 19h20 | LAB Cinema - Pair programming \(1:00\) |
+| 20h20 | Break \(10'\) |
+| 20h30 | Axios intro \(1:00\) |
+
