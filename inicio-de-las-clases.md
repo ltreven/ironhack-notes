@@ -308,3 +308,13 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h20 | Break \(10'\) |
 | 20h30 | Axios intro \(1:00\) |
 
+## Jueves, 04/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap Axios GET + Desliando el LAB \(30'\) |
+| 19h00 | JSON Server \(30'\) |
+| 19h30 | LAB en parejas \(1:00'\) |
+| 20h30 | AXIOS POST, PUT and DELETE \(45''\) |
+| 21h15 | LAB para la casa |
+
