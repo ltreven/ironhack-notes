@@ -318,3 +318,20 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h30 | AXIOS POST, PUT and DELETE \(45''\) |
 | 21h15 | LAB para la casa |
 
+## Sábado, 06/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Retro \(20'\) |
+| 09h20 | Ejercicio Bitcoin \(10'\) |
+| 09h30 | Code Along Characters \(30'\) |
+| 10h00 | Security \(30'\) |
+| 10h30 | Signup user \(30\) |
+| 11h00 | Ejercicio \(30\) |
+| 11h30 | Break \(15'\) |
+| 11h45 | Form validation \(30'\) |
+| 12h15 | Basic authentication and session \(45'\) |
+| 13h00 | Break \(15'\) |
+| 13h15 | Ejercicio Iteraciones 2 y 3 \(1:00\) |
+| 14h15 | Katas |
+
