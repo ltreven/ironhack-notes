@@ -106,6 +106,28 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/68NMBa3qzHFIUqfT9G7dW6ECBoK9X6a8hihNrqcEnxmwg8DoCFnG5u9pYj2mr3EC" %}
 
+## Callback hell, async, await
+
+{% embed url="https://zoom.us/rec/share/3pV6FLHzp0BIHaeV6mrEUYk4MI7AX6a8gCUa\_adbzk-4yY20ddWkquT-dxgtSEuZ" %}
+
+## Iron generator, CRUD, Library Project
+
+{% embed url="https://zoom.us/rec/share/3PRqIZrr71pOcs\_P8UvtSKMxIYfFT6a8hyEXrvYPmk\_MCYQM2XmBCI-UByr2qpO2" %}
+
+## Library Project, Axios Intro
+
+{% embed url="https://zoom.us/rec/share/-u1VdZyo8ERIEonm4kHaXos4AKLsaaa81nNK\_aINxU5XcbXFP6yzBujHj0WQYaLX" %}
+
+## Axios POST, PUT, json-server
+
+{% embed url="https://zoom.us/rec/share/tOltcarr71NIQdLS60qBeKgDWbX0eaa81Cgdq6YLzhsgmn8WJ9NsZxCzqIckYx\_F" %}
+
+## Authentication
+
+{% embed url="https://zoom.us/rec/share/2\_wkELDBrkxOTKvpuGLWQPEmMJTDT6a8gSJN-\_cKmhy0hivpLfhhOHCWuJMAgWWg" %}
+
+
+
 
 
 
