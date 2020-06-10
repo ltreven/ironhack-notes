@@ -126,6 +126,12 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/2\_wkELDBrkxOTKvpuGLWQPEmMJTDT6a8gSJN-\_cKmhy0hivpLfhhOHCWuJMAgWWg" %}
 
+## Autenticación con Sesión
+
+{% embed url="https://zoom.us/rec/share/\_eVZcJXu8FpIYI2Q9F\_2apMNAKH-eaa8gSUZrPoOzFbtvg-ZS9LKA\_RYzip0M48" %}
+
+
+
 
 
 
