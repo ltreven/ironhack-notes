@@ -343,3 +343,16 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h00 | Break \(10'\) |
 | 20h10 | Git flow |
 
+## Sábado, 13/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Daily + Retro 20 |
+| 09h20 | 2 Katas en 3 grupos \(30'\) |
+| 09h50 | Kickoff de proyecto \(1h10\) |
+| 11h00 | Break \(15'\) |
+| 11h15 | Project development |
+| 13h00 | Break \(15'\) |
+| 13h15 | Project development |
+| 14h00 | Project Validation |
+
