@@ -138,6 +138,10 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/wuZ5drXgyX9ISafk-FOcXod9Eb3Heaa81HIa-fNZyEpFlxeSCFQejHr-6-RST0fx" %}
 
+## Mini Clase File Upload y Cloudinary
+
+{% embed url="https://zoom.us/rec/share/u-x4CuCu2G5LY4n\_7UfhHfcxQo\_7aaa80HRK8vIMzkzyfdoGyRolU\_ESARPj6YO3" %}
+
 
 
 
