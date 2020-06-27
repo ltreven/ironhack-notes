@@ -142,6 +142,12 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/u-x4CuCu2G5LY4n\_7UfhHfcxQo\_7aaa80HRK8vIMzkzyfdoGyRolU\_ESARPj6YO3" %}
 
+## Mini Clase Login Social \(Passport + Google\)
+
+{% embed url="https://zoom.us/rec/share/yMJIP5Hh2URIfonk8BvzW\_EoMqbhT6a81iRPrvMPxU1oQqeqTbfmbxtUFXp1Oms-" %}
+
+
+
 
 
 

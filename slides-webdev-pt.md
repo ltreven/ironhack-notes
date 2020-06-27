@@ -174,6 +174,34 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1ZQcrJZPGc1\_VcyPHIiRHPuLNEG1evYfA2Jo54z4aXK0/edit?usp=sharing" %}
 
+## 04/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/1Ab9IdsGc4Doy1ImT4uNd8FcnytqGwivyJjOIQvC\_3w4/edit?usp=sharing" %}
+
+
+
+## 06/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/1uN\_tNtXzYQfq9-ayk6t5EGX1pw5mpDzcNITdLtpFeJY/edit?usp=sharing" %}
+
+## 13/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/1Is-TqCkdqQg9R1qg36m29nTLSqMMSFykjsZLMEJI3lA/edit?usp=sharing" %}
+
+## 16/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/17bZ4hcIPbKeIsuh7Wk8JM2EkU6puLGDGitbT02DD9VY/edit?usp=sharing" %}
+
+## 18/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/1DC9V\_27iwGv4Me6A4UCaGCie297uM\_\_UlRgooOH0yHM/edit?usp=sharing" %}
+
+## 25/Junio/2020
+
+{% embed url="https://docs.google.com/presentation/d/1iHF6zciZIKeXhQM8zqsqHjfCQ\_lvFR\_r-cA9C1pC-co/edit?usp=sharing" %}
+
+
+
 
 
 
