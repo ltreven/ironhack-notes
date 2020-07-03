@@ -308,3 +308,67 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h20 | Break \(10'\) |
 | 20h30 | Axios intro \(1:00\) |
 
+## Jueves, 04/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap Axios GET + Desliando el LAB \(30'\) |
+| 19h00 | JSON Server \(30'\) |
+| 19h30 | LAB en parejas \(1:00'\) |
+| 20h30 | AXIOS POST, PUT and DELETE \(45''\) |
+| 21h15 | LAB para la casa |
+
+## Sábado, 06/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Retro \(20'\) |
+| 09h20 | Ejercicio Bitcoin \(10'\) |
+| 09h30 | Code Along Characters \(30'\) |
+| 10h00 | Security \(30'\) |
+| 10h30 | Signup user \(30\) |
+| 11h00 | Ejercicio \(30\) |
+| 11h30 | Break \(15'\) |
+| 11h45 | Form validation \(30'\) |
+| 12h15 | Basic authentication and session \(45'\) |
+| 13h00 | Break \(15'\) |
+| 13h15 | Ejercicio Iteraciones 2 y 3 \(1:00\) |
+| 14h15 | Katas |
+
+## Jueves, 11/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Deploy to Heroku |
+| 20h00 | Break \(10'\) |
+| 20h10 | Git flow |
+
+## Sábado, 13/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Daily + Retro 20 |
+| 09h20 | 2 Katas en 3 grupos \(30'\) |
+| 09h50 | Kickoff de proyecto \(1h10\) |
+| 11h00 | Break \(15'\) |
+| 11h15 | Project development |
+| 13h00 | Break \(15'\) |
+| 13h15 | Project development |
+| 14h00 | Project Validation |
+
+## Sábado, 04/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Presentaciones \(1:00\) |
+| 10h00 | Feedbacks y Valoración \(1:30\) |
+| 11h30 | Break \(15'\) |
+| 11h45 | Retrospectiva entre parejas \(15'\) |
+| 12h00 | Fun Retro del Módulo 2 \(30'\) |
+| 12h30 | React Intro \(1:00\) |
+| 13h30 | Break \(15'\) |
+| 13h45 | React Intro \(continuación\) |
+| 14h30 | Ironbeer |
+
+
+
