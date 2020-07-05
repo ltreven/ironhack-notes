@@ -370,5 +370,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 13h45 | React Intro \(continuación\) |
 | 14h30 | Ironbeer |
 
+## Martes, 07/07/2020
 
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | React Intro + JSX + CODEPEN \(1:00\) |
+| 19h30 | LAB \(45'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Components & Props \(30'\) |
+| 20h55 | Ejercicio \(30'\) |
+| 21h25 | LAB |
 
