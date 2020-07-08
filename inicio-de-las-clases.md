@@ -381,3 +381,13 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h55 | Ejercicio \(30'\) |
 | 21h25 | LAB |
 
+## Jueves, 09/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap + create-react-app + ejercicio \(45'\) |
+| 19h15 | React State \(1:00\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Ejercicios \(35'\) |
+| 21h00 | Estado en Functional Components \(useState\) + LAB |
+
