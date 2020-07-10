@@ -395,5 +395,6 @@ description: WEB DEV part time Barcelona Marzo 2020
 
 | Horario | Tema |
 | :--- | :--- |
-| 09h00 |  |
+| 09h00 | Lists and Keys \(1:00\) |
+| 10h00 |  |
 
