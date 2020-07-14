@@ -146,22 +146,6 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/yMJIP5Hh2URIfonk8BvzW\_EoMqbhT6a81iRPrvMPxU1oQqeqTbfmbxtUFXp1Oms-" %}
 
-## Presentaciones M2 + React Intro
-
-{% embed url="https://zoom.us/rec/share/xpBSA5\_-2EJIGtLT4WXUAvAbBKjpX6a81CgZ-\_BcmU5Co9\_42qn7icb5lUfdVOoi" %}
-
-## React Intro Reinforcement
-
-{% embed url="https://zoom.us/rec/share/4eNKfrrT21NJXqOcsBnOYoB9R9rUeaa81yEf\_6BYyxvRNmh3A3hMhvYKSW1eqm4w" %}
-
-## React State
-
-{% embed url="https://zoom.us/rec/share/9Zd4cpDq3UFJZqvWyHrWBoowNNzKT6a813JKr\_BZz0tyXPRU6zvfKiTlt3iwYDfa" %}
-
-## Lists, Lifecycle Methods, Hooks
-
-{% embed url="https://zoom.us/rec/share/58VWbLH8zHpIXKeR7kz8d\_EaDtXmX6a8hiYb-6cPnUumMjc7ghkZ4XdWioFnZMzn" %}
-
 
 
 
