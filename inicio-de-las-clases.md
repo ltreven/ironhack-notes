@@ -404,3 +404,14 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 13h15 | LAB React Iron Contacts \(1:30\) |
 | 14h45 | Demo + IronBeer |
 
+## Martes, 14/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Conditional Rendering \(30'\) |
+| 19h00 | Form \(30'\) |
+| 19h30 | Ejercicio \(45'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Forms con Functional Components \(35'\) |
+| 21h00 | Ejercicio \(30'\) |
+
