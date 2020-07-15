@@ -218,6 +218,14 @@ description: Slides utilizados para el curso de Web Development (part time) de I
 
 {% embed url="https://docs.google.com/presentation/d/1Ie5RP-u-plc1u\_gBnbFlYfWyu1Txuw-Lp2rQBLrhIEM/edit?usp=sharing" %}
 
+## 14/07/2020
+
+{% embed url="https://docs.google.com/presentation/d/1niHmdgzw0hD-uKH2Pnywj34wqv64NiMneCE3Erwnw\_s/edit?usp=sharing" %}
+
+## 16/07/2020
+
+{% embed url="https://docs.google.com/presentation/d/1q4hyJiY7ZWtL0MtpgUsvw37Y-lmjZLQg8xTEZazNExY/edit?usp=sharing" %}
+
 
 
 

@@ -424,5 +424,7 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 19h30 | Routing Intro \(30'\) |
 | 20h00 | Break \(10'\) |
 | 20h10 | Routing Exercise \(50'\) |
-| 21h00 | LAB \(30'\) |
+| 21h00 | LAB React Iron Nutrition \(30'\) |
+
+
 
