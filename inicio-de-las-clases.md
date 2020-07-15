@@ -308,3 +308,121 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h20 | Break \(10'\) |
 | 20h30 | Axios intro \(1:00\) |
 
+## Jueves, 04/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap Axios GET + Desliando el LAB \(30'\) |
+| 19h00 | JSON Server \(30'\) |
+| 19h30 | LAB en parejas \(1:00'\) |
+| 20h30 | AXIOS POST, PUT and DELETE \(45''\) |
+| 21h15 | LAB para la casa |
+
+## Sábado, 06/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Retro \(20'\) |
+| 09h20 | Ejercicio Bitcoin \(10'\) |
+| 09h30 | Code Along Characters \(30'\) |
+| 10h00 | Security \(30'\) |
+| 10h30 | Signup user \(30\) |
+| 11h00 | Ejercicio \(30\) |
+| 11h30 | Break \(15'\) |
+| 11h45 | Form validation \(30'\) |
+| 12h15 | Basic authentication and session \(45'\) |
+| 13h00 | Break \(15'\) |
+| 13h15 | Ejercicio Iteraciones 2 y 3 \(1:00\) |
+| 14h15 | Katas |
+
+## Jueves, 11/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Deploy to Heroku |
+| 20h00 | Break \(10'\) |
+| 20h10 | Git flow |
+
+## Sábado, 13/06/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Daily + Retro 20 |
+| 09h20 | 2 Katas en 3 grupos \(30'\) |
+| 09h50 | Kickoff de proyecto \(1h10\) |
+| 11h00 | Break \(15'\) |
+| 11h15 | Project development |
+| 13h00 | Break \(15'\) |
+| 13h15 | Project development |
+| 14h00 | Project Validation |
+
+## Sábado, 04/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Presentaciones \(1:00\) |
+| 10h00 | Feedbacks y Valoración \(1:30\) |
+| 11h30 | Break \(15'\) |
+| 11h45 | Retrospectiva entre parejas \(15'\) |
+| 12h00 | Fun Retro del Módulo 2 \(30'\) |
+| 12h30 | React Intro \(1:00\) |
+| 13h30 | Break \(15'\) |
+| 13h45 | React Intro \(continuación\) |
+| 14h30 | Ironbeer |
+
+## Martes, 07/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | React Intro + JSX + CODEPEN \(1:00\) |
+| 19h30 | LAB \(45'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Components & Props \(30'\) |
+| 20h55 | Ejercicio \(30'\) |
+| 21h25 | LAB |
+
+## Jueves, 09/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Recap + create-react-app + ejercicio \(45'\) |
+| 19h15 | React State \(1:00\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Ejercicios \(35'\) |
+| 21h00 | Estado en Functional Components \(useState\) + LAB |
+
+## Sábado, 11/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Lists and Keys \(1:15\) |
+| 10h15 | Lifecycle Methods \(45'\) |
+| 11h00 | Break \(15'\) |
+| 11h15 | Hooks & useState \(45'\) |
+| 12h00 | Conditional Rendering + ejercicios \(1:00\) |
+| 13h00 | Break \(15\) |
+| 13h15 | LAB React Iron Contacts \(1:30\) |
+| 14h45 | Demo + IronBeer |
+
+## Martes, 14/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Conditional Rendering \(30'\) |
+| 19h00 | Form \(30'\) |
+| 19h30 | Ejercicio \(45'\) |
+| 20h15 | Break \(10'\) |
+| 20h25 | Forms con Functional Components \(35'\) |
+| 21h00 | Ejercicio \(30'\) |
+
+## Jueves, 16/07/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Forms Recap \(30'\) |
+| 19h00 | Forms Funcional Component \(30'\) |
+| 19h30 | Routing Intro \(30'\) |
+| 20h00 | Break \(10'\) |
+| 20h10 | Routing Exercise \(50'\) |
+| 21h00 | LAB \(30'\) |
+
