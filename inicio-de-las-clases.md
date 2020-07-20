@@ -426,5 +426,11 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h10 | Routing Exercise \(50'\) |
 | 21h00 | LAB React Iron Nutrition \(30'\) |
 
+## Martes, 21/07/2020
 
+| Horario | Tema |
+| :--- | :--- |
+| 18h30 | Lifting the state up \(1:00\) |
+| 19h30 | Thinking in React + break \(1:30\) |
+| 21h00 | Composition x inheritance \(self guided\) \(30'\) |
 
