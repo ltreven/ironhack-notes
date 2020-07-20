@@ -170,6 +170,12 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/xetafp\_hzE9Oe43Cwmb4UPIYGNTueaa8gXAY\_aZbz07-fIRrO-BkXBpOIchvdxxf" %}
 
+## Super Saturday Project + Redux
+
+{% embed url="https://zoom.us/rec/share/xt1-Cqz7331IR9Lnxh-PSrR\_G7r9T6a81nUc-\_UEzk5zxp353y36nixpz23hJSBm" %}
+
+
+
 
 
 
