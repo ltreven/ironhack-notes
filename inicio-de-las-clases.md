@@ -434,12 +434,3 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 19h30 | Thinking in React + break \(1:30\) |
 | 21h00 | Composition x inheritance \(self guided\) \(30'\) |
 
-## Jueves, 22/07/2020
-
-| Horario | Tema |
-| :--- | :--- |
-| 18h30 | Routes Advanced \(1:30\) |
-| 20h00 | Break \(10'\) |
-| 20h10 | React con API \(1:00\) |
-| 21h10 | Self Guided \(20'\) |
-
