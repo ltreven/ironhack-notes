@@ -475,3 +475,15 @@ description: WEB DEV part time Barcelona Marzo 2020
 | 20h00 | Break \(10'\) |
 | 20h10 | File Upload + ejercicio \(1:20\) |
 
+## Sábado, 01/08/2020
+
+| Horario | Tema |
+| :--- | :--- |
+| 09h00 | Retro \(20'\) |
+| 09h20 | Finalizar File Upload \(40'\) |
+| 10h00 | Super Ejercicio \(2:00\) con Break |
+| 12h00 | Autenticación - Code Along \(1:00\) |
+| 13h00 | Break 15' |
+| 13h15 | Autenticación - Ejercicio \(1:00\) |
+| 14h15 | Hooks |
+

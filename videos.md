@@ -170,6 +170,32 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/xetafp\_hzE9Oe43Cwmb4UPIYGNTueaa8gXAY\_aZbz07-fIRrO-BkXBpOIchvdxxf" %}
 
+## Super Saturday Project + Redux
+
+{% embed url="https://zoom.us/rec/share/xt1-Cqz7331IR9Lnxh-PSrR\_G7r9T6a81nUc-\_UEzk5zxp353y36nixpz23hJSBm" %}
+
+## API con React
+
+{% embed url="https://zoom.us/rec/share/4pJsNLzS-UFLfZXV7wLTZ4sTTpXpaaa8hnMY-\_dYnx72eCf0vAB1aSf9pi8mp79F" %}
+
+## API con React 2
+
+{% embed url="https://zoom.us/rec/share/5OlRIezCzUBIG8-SyhDuB5BxHp60eaa823dL-vULzx7VppWA7Jz3zzZE0Y1JcIE9" %}
+
+## Lifting the State UP
+
+{% embed url="https://zoom.us/rec/share/-NxuMeHw2ExJH4Xkx27xWrYTEZjueaa8h3Qf-PYNxEioZCOhBntDYRNQ19mY8QGk" %}
+
+## Router Advanced
+
+{% embed url="https://zoom.us/rec/share/v-dEc6Hs80BLSa\_StmOHC6ANMJrhT6a81nBN\_fMPmRs4INgV6DV4yDEjdqQmuhCV" %}
+
+## Google Maps y File Upload
+
+{% embed url="https://zoom.us/rec/share/-pF6Nr7s9SRIaZWTynr0e7UiAaq9X6a80SBIq\_MImRoasuPCzTN-Er33Gkfbujmp" %}
+
+
+
 
 
 
