@@ -194,7 +194,9 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/-pF6Nr7s9SRIaZWTynr0e7UiAaq9X6a80SBIq\_MImRoasuPCzTN-Er33Gkfbujmp" %}
 
+## File Upload + Ejercicio
 
+{% embed url="https://zoom.us/rec/share/\_9YoH4GuqGVOXbfEsW-cf5MqQIv1eaa8gSdI-voJy0nj1lWDBFiQkneqEdohjgmY" %}
 
 
 
