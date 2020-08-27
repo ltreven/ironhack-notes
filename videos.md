@@ -198,6 +198,18 @@ description: Todos los videos de las classes de WEBDEV
 
 {% embed url="https://zoom.us/rec/share/\_9YoH4GuqGVOXbfEsW-cf5MqQIv1eaa8gSdI-voJy0nj1lWDBFiQkneqEdohjgmY" %}
 
+## React Authentication
+
+{% embed url="https://zoom.us/rec/share/25N4BeDetTJLH8\_P5x7QVIcMQ6DPT6a80SdI\_qVYxUjl7jZKueCTtiFOfd0B3Cho" %}
+
+## React Deploy
+
+{% embed url="https://zoom.us/rec/share/3shcBa-gtVxLb6\_9-nzgUKs4MbvAX6a81nBN\_PRfyRtnWvuaFlpJgQEDpSGAlgEr" %}
+
+## Ultima Clase - Proyecto y Redux
+
+{% embed url="https://zoom.us/rec/share/95dUEPbr5jNOQoHO6FjuapAAE9zMT6a813QZ\_\_YNn0xaGcr8V7nVilWKkIRvrCcM" %}
+
 
 
 
