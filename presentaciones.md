@@ -106,6 +106,10 @@ description: >-
 
 ### Repos
 
+{% embed url="https://github.com/dlamo/join-my-trip-frontend" %}
+
+{% embed url="https://github.com/dlamo/join-my-trip-backend" %}
+
 ### Presentación
 
 ## Guillem Millán
@@ -135,6 +139,10 @@ description: >-
 ### Aplicación
 
 ### Repos
+
+{% embed url="https://github.com/jesussantana/MERN-PROJECT-FRONTEND" %}
+
+{% embed url="https://github.com/jesussantana/MERN-PROJECT-BACKEND" %}
 
 ### Presentación
 
@@ -190,7 +198,13 @@ description: >-
 
 ### Aplicación
 
+{% embed url="https://justcookit.herokuapp.com/" %}
+
 ### Repos
+
+{% embed url="https://github.com/marcelavbc/frontend-module3-project" %}
+
+{% embed url="https://github.com/marcelavbc/backend-module3-project" %}
 
 ### Presentación
 
