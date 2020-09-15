@@ -42,9 +42,17 @@ description: >-
 
 ### Aplicación
 
+{% embed url="https://drinks-app.herokuapp.com/" %}
+
 ### Repos
 
+{% embed url="https://github.com/bert-ware/final-project-frontend" %}
+
+{% embed url="https://github.com/bert-ware/final-project-backend" %}
+
 ### Presentación
+
+{% embed url="https://docs.google.com/presentation/d/1vmC0sIQ1zcjQDe6x2H2RxkLYNl8pqDgb7VOf8klEVxI/edit\#slide=id.g98ab30ac2d\_0\_5" %}
 
 ## Alex Gerasymenko
 
