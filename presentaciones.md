@@ -142,11 +142,15 @@ description: >-
 
 ### Repos
 
+{% embed url="https://github.com/jesussantana/KLOUT" %}
+
 {% embed url="https://github.com/jesussantana/MERN-PROJECT-FRONTEND" %}
 
-{% embed url="https://github.com/jesussantana/MERN-PROJECT-BACKEND" %}
-
 ### Presentación
+
+{% embed url="https://prezi.com/i/0g80uhe7lw96/klout/" %}
+
+
 
 ## Juli Ramon
 
