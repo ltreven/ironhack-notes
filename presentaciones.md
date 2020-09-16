@@ -116,9 +116,19 @@ description: >-
 
 ### Aplicación
 
+{% embed url="https://studentsfp.herokuapp.com/" %}
+
 ### Repos
 
+{% embed url="https://github.com/guillemmillan/studentsAppFrontend" %}
+
+{% embed url="https://github.com/guillemmillan/studentsAppBackend" %}
+
 ### Presentación
+
+{% embed url="https://docs.google.com/presentation/d/17i9\_jdmamYNYcoS-jqBC8wkQk8Q1fC-37CcToUeJS3c/edit?usp=sharing" %}
+
+
 
 ## Irene Villanueva
 
