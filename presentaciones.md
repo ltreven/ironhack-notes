@@ -262,7 +262,5 @@ description: >-
 
 {% embed url="https://docs.google.com/presentation/d/1JEHBcbaOR2iLxD90uJcWjqNAqkfE2p7LwHkBh0\_-GfM/edit\#slide=id.g97af223275\_1\_80" %}
 
-## 
-
 
 
