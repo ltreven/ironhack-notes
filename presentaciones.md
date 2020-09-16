@@ -104,6 +104,8 @@ description: >-
 
 ### Aplicación
 
+{% embed url="https://join-my-trips.herokuapp.com/" %}
+
 ### Repos
 
 {% embed url="https://github.com/dlamo/join-my-trip-frontend" %}
@@ -111,6 +113,8 @@ description: >-
 {% embed url="https://github.com/dlamo/join-my-trip-backend" %}
 
 ### Presentación
+
+{% embed url="https://docs.google.com/presentation/d/1ZzyQwVY57G4tq3h\_5AX6MVL9rAFRUa8\_GAS4Rfv6sNo/edit?usp=sharing" %}
 
 ## Guillem Millán
 
